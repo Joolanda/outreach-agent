@@ -17,7 +17,7 @@ Search for people using these filters:
 - Has email: true
 - Currently hiring: true
 - Limit: 5 results
-- Locations: the USA, Europe, Canada
+- Locations: UK, Germany, Netherlands
 
 Extract per lead:
 

@@ -33,7 +33,7 @@ Use this as the brief:
 
 ---
 
-Writer: Olga Ivanova (see \_about_me.md)
+Writer: Jolanda Tinge (see \_about_me.md)
 Recipient: {first_name}, {title} at {company_name}
 Company context: {company_info}
 Signal to reference: {recent_signal}

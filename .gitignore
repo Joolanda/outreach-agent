@@ -1,5 +1,5 @@
 # Ignore personal About Me file
-about_me.md
+_about_me.md
 
 # Python
 __pycache__/
